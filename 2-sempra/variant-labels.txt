@@ -1,0 +1,32 @@
+name	microscope-label	prediction
+OSL30	Inert Residual	inert
+OSL31	Inert Residual	inert
+OSL32	Inert Residual	inert
+OSL24	Ectopic	robust
+OSL25	Ectopic	robust
+OSL26	Ectopic	robust
+OSL27	Ectopic	robust
+OSL69828	Ectopic	robust
+OSL7801	Ectopic	robust
+OSL7948	Ectopic	robust
+OSL29	Weak Ectopic	moderate
+OSL28	Neural	moderate
+OSL18		robust
+OSL18198		robust
+OSL18870		robust
+OSL19		robust
+OSL20		robust
+OSL21		robust
+OSL23168		moderate
+OSL38856		robust
+OSL4130		robust
+OSL46282		robust
+OSL54253		moderate
+OSL57814		robust
+OSL65661		moderate
+OSL71884		moderate
+OSL73244		moderate
+OSL73524		robust
+OSL75821		moderate
+OSL80904		moderate
+OSL9391		moderate
