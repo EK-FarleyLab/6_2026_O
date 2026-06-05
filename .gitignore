@@ -6,6 +6,7 @@ __pycache__/
 # ignore Mac and supp data
 supp/
 .DS_Store
+**/.DS_Store
 
 # Distribution / packaging
 build/
