@@ -189,8 +189,8 @@ TfbsName28mer={'G':(-2,6),
                'E':(-2,6),
                'e':(-2,6)}
 
-TfbsName2Seq2Aff={'G':jsa.loadAff('/tscc/nfs/home/solvason/ref/binding-affinity/gata6/parsed_Gata6_3769_contig8mers.txt'),
-                  'E':jsa.loadAff('/tscc/nfs/home/solvason/ref/binding-affinity/ets/parsed_Ets1_8mers.txt')}
+TfbsName2Seq2Aff={'G':jsa.loadAff('supp/parsed_Gata6_3769_contig8mers.txt'),
+                  'E':jsa.loadAff('supp/parsed_Ets1_8mers.txt')}
 
 # get_tfbs_string(seq,TfbsName2SeqSet,TfbsSeq2NameOri,TfbsName2SpacingStart,TfbsName28mer,TfbsName2Seq2Aff)
 

@@ -1,0 +1,57 @@
+# Byte-compiled / optimized / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ignore Mac and supp data
+supp/
+.DS_Store
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+profile_default/
+ipython_config.py
+
+# Environment variables / secrets
+.env
+.env.local
+*.key
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Model checkpoints / outputs
+*.pt
+*.pth
+*.ckpt
+models/
+checkpoints/
+
+# Plots / results (regenerated)
+*.png
+*.pdf
+results/
+outputs/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
