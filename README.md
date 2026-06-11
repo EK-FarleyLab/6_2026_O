@@ -8,14 +8,13 @@ All software dependencies and operating systems (including version numbers) can 
 
 Apart from the required packages, there are two homemade packages with helper functions that need to be installed into the user's python path. `easyMPRA` as well as `js`. Instructions for installation can be found in `0-orl/0-produce-en-bc-dict/readme.txt` and `0-orl/js/README.md`. This should take less than 10 min on standard computers.
 
-
 3. Demo
+   
+The preprocessing steps can be found in `0-orl/0-produce-en-bc-dict`, `0-orl/1-mpra-experiment/F02i`, `0-orl/1-mpra-experiment/F02ii`, `1-sempra/F05i`, and `1-sempra/F05ii`. Raw datasets will be uploaded to SRA. The processed datasets made by these notebooks can be found in `supp` folders, and all downstream notebooks can be run on those datasets. Expected output are included in notebooks, and run time for these should be ~30min.
 
-The preprocessing steps can be found in `0-orl/0-produce-en-bc-dict`, `0-orl/1-mpra-experiment/F02i`, `0-orl/1-mpra-experiment/F02ii`, `1-sempra/F05i`, and `1-sempra/F05ii`. User will not be able to run those notebooks unfortunately since the raw sequencing data are too big to be shared. The processed datasets made by these notebooks can be found in `supp` folders, and all downstream notebooks can be run on those datasets. Expected output are included in notebooks, and run time for these should be ~30min.
+5. Instructions for use
 
-4. Instructions for use
-
-Each jupyter notebook used for the analysis are labeled by the main/supplementary figures they make. User can navigate to the individual notebooks to see detailed walkthrough. 
+Each jupyter notebook used for the analysis is labeled by the main/supplementary figures to which they apply. User can navigate to the individual notebooks to see detailed walkthrough. 
 
 
 
