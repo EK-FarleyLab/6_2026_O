@@ -10,9 +10,9 @@ Apart from the required packages, there are two homemade packages with helper fu
 
 3. Demo
    
-The preprocessing steps can be found in `0-orl/0-produce-en-bc-dict`, `0-orl/1-mpra-experiment/F02i`, `0-orl/1-mpra-experiment/F02ii`, `1-sempra/F05i`, and `1-sempra/F05ii`. Raw datasets will be uploaded to SRA. The processed datasets made by these notebooks can be found in `supp` folders, and all downstream notebooks can be run on those datasets. Expected output are included in notebooks, and run time for these should be ~30min.
+The preprocessing steps can be found in `0-orl/0-produce-en-bc-dict`, `0-orl/1-mpra-experiment/F02i`, `0-orl/1-mpra-experiment/F02ii`, `1-sempra/F05i`, and `1-sempra/F05ii`. Raw datasets will be uploaded to SRA. The processed datasets made by these notebooks can be found on Figshare, and all downstream notebooks can be run on those datasets. Expected output are included in notebooks, and run time for these should be ~30min.
 
-5. Instructions for use
+4. Instructions for use
 
 Each jupyter notebook used for the analysis is labeled by the main/supplementary figures to which they apply. User can navigate to the individual notebooks to see detailed walkthrough. 
 
